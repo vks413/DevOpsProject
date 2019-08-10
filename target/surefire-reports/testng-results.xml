@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="26300" started-at="2019-08-07T16:06:28Z" finished-at="2019-08-07T16:06:54Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="26300" started-at="2019-08-07T16:06:28Z" finished-at="2019-08-07T16:06:54Z">
+      <class name="com.Automation.dummyAut.TestCase">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.Automation.dummyAut.TestCase@327471b5]" name="launchBrowser" is-config="true" duration-ms="7468" started-at="2019-08-07T21:36:28Z" finished-at="2019-08-07T21:36:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.Automation.dummyAut.TestCase@327471b5]" name="Test1" duration-ms="4499" started-at="2019-08-07T21:36:35Z" finished-at="2019-08-07T21:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.Automation.dummyAut.TestCase@327471b5]" name="Close" is-config="true" duration-ms="2096" started-at="2019-08-07T21:36:40Z" finished-at="2019-08-07T21:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.Automation.dummyAut.TestCase@327471b5]" name="launchBrowser" is-config="true" duration-ms="4870" started-at="2019-08-07T21:36:42Z" finished-at="2019-08-07T21:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.Automation.dummyAut.TestCase@327471b5]" name="Test2" duration-ms="5210" started-at="2019-08-07T21:36:47Z" finished-at="2019-08-07T21:36:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:com.Automation.dummyAut.TestCase@327471b5]" name="Close" is-config="true" duration-ms="2127" started-at="2019-08-07T21:36:52Z" finished-at="2019-08-07T21:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- com.Automation.dummyAut.TestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
