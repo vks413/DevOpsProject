@@ -9,6 +9,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+//this is a sample code
 public class TestCase {
 
 	public static WebDriver webdriver;
